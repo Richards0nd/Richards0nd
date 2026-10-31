@@ -16,7 +16,7 @@
 ### What I'm doing
 
 - 🏢 **Fullstack developer at [Vérttice GR](https://vertticegr.com.br)** — risk management for logistics. APIs, integrations, data pipelines and internal platforms in Go, TypeScript and Python.
-- 🚀 **Founder of [Vixpi](https://vixpi.com)** — web hosting, servers and infrastructure services.
+- 🚀 **Owner of [GCN Soluções de Tecnologia](https://www.gcnsolucoes.com.br)** ([@gcnsolucoes](https://github.com/gcnsolucoes)), the company behind **[Vixpi Host](https://vixpi.host)**: web hosting, WordPress, cloud VPS, dedicated and game servers with anti-DDoS, datacenters in São Paulo and Miami. Open-sourced bits like [**404**](https://github.com/gcnsolucoes/404), pretty HTTP error pages for nginx, Caddy and Traefik.
 - 🦀 **Maintainer at [VKD](https://github.com/vkdprojects)** and **[LowBloat](https://lowbloat.app)** — open-source tools, mostly Rust and Go.
 
 ### Open source
